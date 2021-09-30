@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaFactoryWeb", "LaFactoryWeb\LaFactoryWeb.csproj", "{73634ADC-5A7E-4E0A-9A16-4C1173D94BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{92B9FD5B-9E81-4CAF-9095-DB7EE59FC907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73634ADC-5A7E-4E0A-9A16-4C1173D94BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73634ADC-5A7E-4E0A-9A16-4C1173D94BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73634ADC-5A7E-4E0A-9A16-4C1173D94BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73634ADC-5A7E-4E0A-9A16-4C1173D94BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B9FD5B-9E81-4CAF-9095-DB7EE59FC907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B9FD5B-9E81-4CAF-9095-DB7EE59FC907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B9FD5B-9E81-4CAF-9095-DB7EE59FC907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B9FD5B-9E81-4CAF-9095-DB7EE59FC907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37558DE-45F7-4112-8D1F-70582DD82DD5}
+	EndGlobalSection
+EndGlobal
